@@ -736,7 +736,7 @@ case 'menu': {
       buttons: [
         {
           buttonId: `${config.PREFIX}quick_commands`,
-          buttonText: { displayText: 'MINI PROBLÈMATIQUE MD  CMDS },
+          buttonText: { displayText: 'MINI PROBLÈMATIQUE MD CMDS' },
           type: 4,
           nativeFlowInfo: {
             name: 'single_select',
