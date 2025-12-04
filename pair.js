@@ -2122,7 +2122,7 @@ case "lovequote": {
                             caption: formatMessage(
                                 '📰 MINI PROBLÈMATIQUE MD 📰',
                                 `📢 *${title}*\n\n${desc}\n\n🕒 *ᴅᴀᴛᴇ*: ${date}\n🌐 *Link*: ${link}`,
-                                'POWERED BY MR PROBLÈMATIQUE 
+                                'POWERED BY MR PROBLÈMATIQUE'
                             )
                         });
                     } catch (error) {
